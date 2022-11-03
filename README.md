@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Jagmeet Singh 
+- ✨ Forth year student @ NITJ persuing INFORMATION TECHNOLOGY DEGREE
 - 🌱 I’m currently learning ... React and JS
 - 💞️ I’m looking to collaborate on any frontend projects
 - 📫 reach me jagmeetsingh2921@gmail.com
