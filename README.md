@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jagmeet Singh 
 - ✨ Fourth year student @ NITJ persuing INFORMATION TECHNOLOGY DEGREE
-- 🌱 I’m currently learning ... React and TypeScript
+- 🌱 I’m currently learning ... Reactjs and TypeScript
 - 💞️ I’m looking to collaborate on any Frontend Projects
-- 📫 reach me jagmeetsingh2921@gmail.com
+- 📫 Reach me jagmeetsingh2921@gmail.com
 
 <!---
 ucantbe-jagmeet/ucantbe-jagmeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
