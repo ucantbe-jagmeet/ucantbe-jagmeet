@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagmeet Singh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="center" alt="coding" width="400" src= "https://www.jakeayars.com/javascript" />
+<img align="right" alt="coding" width="400" src= "https://dribbble.com/shots/2831763-I-Play-With-Code" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ucantbe-jagmeet&label=Profile%20views&color=0e75b6&style=flat" alt="ucantbe-jagmeet" /> </p>
