@@ -1,5 +1,6 @@
 <<h1 align="center">Hi 👋, I'm Jagmeet Singh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/02/73/46/99/1000_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ucantbe-jagmeet&label=Profile%20views&color=0e75b6&style=flat" alt="ucantbe-jagmeet" /> </p>
 
