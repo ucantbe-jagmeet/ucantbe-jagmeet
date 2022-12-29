@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ucantbe_jagmeet" target="_blank"><img src="https://img.shields.io/twitter/follow/ucantbe_jagmeet?logo=twitter&style=for-the-badge" alt="ucantbe_jagmeet" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jagmeet-singh.vercel.app/](https://portfolio-jagmeet-singh.vercel.app/)
 
