@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jagmeet-singh.vercel.app/](https://portfolio-jagmeet-singh.vercel.app/)
+- 👨‍💻 Reach to my Portfolio here **->** [https://portfolio-jagmeet-singh.vercel.app/](https://portfolio-jagmeet-singh.vercel.app/)
 
 - 💬 Ask me about **Javascript, ReactJS**
 
