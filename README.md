@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ucantbe_jagmeet" target="blank"><img src="https://img.shields.io/twitter/follow/ucantbe_jagmeet?logo=twitter&style=for-the-badge" alt="ucantbe_jagmeet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ucantbe_jagmeet" target="_blank"><img src="https://img.shields.io/twitter/follow/ucantbe_jagmeet?logo=twitter&style=for-the-badge" alt="ucantbe_jagmeet" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 
