@@ -26,11 +26,3 @@
 <a href="https://www.facebook.com/profile.php?id=100004533609204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagmeet singh" height="30" width="40" /></a>
 </p>
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucantbe-jagmeet&show_icons=true&locale=en&layout=compact" alt="ucantbe-jagmeet" /></p>
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ucantbe-jagmeet&show_icons=true&locale=en" alt="ucantbe-jagmeet" /></p>
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ucantbe-jagmeet&" alt="ucantbe-jagmeet" /></p>
