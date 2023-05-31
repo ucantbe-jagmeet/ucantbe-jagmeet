@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-jagmeet-singh.vercel.app/](https://my-portfolio-jagmeet-singh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-jagmeet-singh.vercel.app/](https://portfolio-jagmeet-singh.vercel.app/)
 
 - 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs**
 
