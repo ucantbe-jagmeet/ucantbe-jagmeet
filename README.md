@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://jagmeet-portfolio.vercel.app/](https://jagmeet-portfolio.vercel.app/)
 
