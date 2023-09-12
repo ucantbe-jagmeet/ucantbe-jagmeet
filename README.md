@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Jagmeet Singh</h1>
 
 <br/>
-<div  >
-    <img align="right" alt="coding"  width="450px" src="https://codezeesolutions.com/wp-content/uploads/2022/08/FullStack-Developer-img2.svg" />
+<div ">
+    <img align="right" alt="coding"   width="450px" src="https://www.pngitem.com/pimgs/m/524-5249023_js-javascript-logo-hd-png-download.png" />
 </div>
 
 
