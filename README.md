@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jagmeet-portfolio.vercel.app/](https://jagmeet-portfolio.vercel.app/)
 
-- 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs**
+- 💬 Ask me about **Javascript, NexttJS , NestJs**
 
 - 📫 How to reach me **jagmeetsingh2921@gmail.com**
 
