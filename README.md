@@ -6,7 +6,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://jagmeet-portfolio.vercel.app/](https://jagmeet-portfolio.vercel.app/)
 
